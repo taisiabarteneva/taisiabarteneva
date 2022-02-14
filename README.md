@@ -15,4 +15,7 @@ Now I am looking for internship opportunities
 
 
 Let's connect!
-Get in touch taisiyabarteneva@gmail.com ✉️
+
+Get in touch 
+- taisiyabarteneva@gmail.com ✉️
+- slack @wurrigon
