@@ -1,4 +1,4 @@
-## My name is Taisiya Barteneva
+## My name is Taisiya Barteneva 👩🏽‍💻
 
 I am an aspiring tech enthusiast, currently studying at Ecole42 (Moscow campus)
 
@@ -11,8 +11,8 @@ Now I am looking for internship opportunities
 - Data Science
 - Data Bases
 
-#### This year's goal is to contribute to open-source projects
+#### This year's goal is to contribute to open-source projects ✅
 
 
 Let's connect!
-Get in touch taisiyabarteneva@gmail.com
+Get in touch taisiyabarteneva@gmail.com ✉️
