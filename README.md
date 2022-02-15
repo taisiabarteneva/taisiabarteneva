@@ -11,6 +11,8 @@ Now I am looking for internship opportunities
 - Data Science
 - Data Bases
 
+At the moment I'm working on minishell project - a simple implementation of a bash shell written on pure C 🐚 
+
 #### This year's goal is to contribute to open-source projects ✅
 
 
