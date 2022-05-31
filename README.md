@@ -7,14 +7,13 @@ I am very motivated to keep learning and improving my skills
 Now I am looking for internship opportunities
 
 ## I'm currently learning
+- Go
 - C++
-- Data Science
 - Data Bases
 
-At the moment I'm working on minishell project - a simple implementation of a bash shell written on pure C 🐚 
+The last project I was working on is minishell - a simple implementation of a bash shell written on pure C 🐚 
 
 #### This year's goal is to contribute to open-source projects ✅
-
 
 Let's connect!
 
