@@ -11,8 +11,6 @@ Now I am looking for internship opportunities
 - C++
 - Data Bases
 
-The last project I was working on is minishell - a simple implementation of a bash shell written on pure C 🐚 
-
 #### This year's goal is to contribute to open-source projects ✅
 
 Let's connect!
